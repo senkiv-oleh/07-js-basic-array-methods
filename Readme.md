@@ -105,7 +105,7 @@ git commit -m "feat: completed all 15 tasks"
 git push origin main
 ```
 
-2. Відкрийте браузер і перейдіть на сторінку **оригінального репозиторію викладача** (`github.com/senkiv-oleh/06-js-basic-objects-part-2`).
+2. Відкрийте браузер і перейдіть на сторінку **оригінального репозиторію викладача** (`github.com/senkiv-oleh/07-js-basic-array-methods`).
 
 3. Перейдіть у вкладку **Pull requests** та натисніть **New pull request**.
 
